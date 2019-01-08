@@ -15,7 +15,7 @@
 <script type="text/javascript">
     var books = "";
     $(document).ready(function () {
-        var page = "";
+        var page = "";ddss
         var requset = new XMLHttpRequest();
         $.ajax({
             "url": "BooksServlet",                      // 要提交的URL路径
